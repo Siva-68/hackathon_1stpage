@@ -7,7 +7,7 @@
   }
 
   body {
-    background: #0d0d0d;
+    background: rgb(35, 34, 113);
     color: white;
     cursor: url(https://cursor.style/cursors/1335-nissan-cursor.svg), auto;
   }
@@ -346,6 +346,7 @@ font-size: 0.9rem;
   from { opacity: 0; transform: translateY(-40px); }
   to { opacity: 1; transform: translateY(0); }
 }
+
 
 
 
